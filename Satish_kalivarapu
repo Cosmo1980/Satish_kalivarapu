@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satish Kumar Kalivarapu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        .instagram {
+            margin-top: 20px;
+        }
+        .instagram a {
+            display: inline-block;
+            margin: 10px;
+        }
+        .instagram img {
+            max-width: 200px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Satish Kumar Kalivarapu</h1>
+        </header>
+        <section class="instagram">
+            <h2>Follow me on Instagram</h2>
+            <div>
+                <a href="https://www.instagram.com/satish_kalivarapu?igsh=YnRrbHA0OHY5b290" target="_blank">
+                    <img src="https://www.instagram.com/satish_kalivarapu?igsh=YnRrbHA0OHY5b290" alt="Instagram Profile">
+                </a>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
